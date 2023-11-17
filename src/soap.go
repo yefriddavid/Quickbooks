@@ -1,4 +1,4 @@
-package Quickbooks
+package soap
 
 import "github.com/achiku/xml"
 
