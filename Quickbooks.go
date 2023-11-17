@@ -1,7 +1,11 @@
 package main
 
 import "fmt"
-import "github.com/yefriddavid/Quickbooks/src/soap"
+import (
+	//soap "src/test"
+	soap "github.com/yefriddavid/Quickbooks/src/soap"
+)
+
 //import "github.com/trazesoft/Quickbooks"
 //import "Quickbooks"
 
